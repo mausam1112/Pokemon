@@ -1,0 +1,10 @@
+alembic
+asyncpg
+fastapi
+pillow
+psycopg2
+pydantic-settings
+requests
+sqlalchemy
+sqlmodel
+uvicorn
