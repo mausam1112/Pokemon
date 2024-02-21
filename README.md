@@ -12,7 +12,7 @@ Virtual environment recommended.
 <details open>
 <summary>Usage</summary>
 Clone the repository and change directory in `Pokemon`.<br>
-Activate virtual Environment if virtual environment. <br>
+Activate virtual Environment if necessary. <br>
 
 ### Install dependencies from [requirements.txt](https://github.com/mausam1112/Pokemon/blob/master/requirements.txt)  file.
 ```bash
